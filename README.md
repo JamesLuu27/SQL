@@ -1,1 +1,2 @@
 # SQL
+This is just the basic code to show that I understand how to use beginner SQL. Some of these code are just snippet of my project as posting my entire project would be an eyesore. I created comment to show which section contains ampersands, nvl, case, select and prompts. If you run the formula, there will be an error obviously as the table I select does not exist. At the moment I am taking courses on transact SQL and hope to update my portfolio.
